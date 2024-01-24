@@ -12,6 +12,9 @@
 
 - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/3BJ86NWGUFX6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 - [CompTIA A+](https://www.credly.com/badges/513b24da-3475-47d3-886a-a2fadeb40e40/public_url)
+- [Cybersecurity Analytics](https://docs.google.com/document/d/1XaTuTcoz1N5AKyhnzmQ_2976oc0XtOxv8qI8XcicTXs/edit?usp=sharing)
+- [Qualys Certified Specialist](https://docs.google.com/document/d/1xEF2EsiiwWO1YgbFSmHw6s4oGsvTrKiL-YPZWcuWkLE/edit?usp=sharing)
+- [The Definitive GRC Master Class](https://docs.google.com/document/d/1uGW580bnkpbLX7-mNPMyK8Kfa7PO628N7k_cht8z1K4/edit?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
