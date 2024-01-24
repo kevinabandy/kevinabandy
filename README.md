@@ -8,7 +8,7 @@
  - [Wireshark on Kali-Linux VM](https://docs.google.com/document/d/1FOlf0ktsfdmy4z2CUigX2sHpMxX6n883xo5WNEv6NvU/edit?usp=sharing)
  - [Risk Simulation](https://docs.google.com/spreadsheets/d/1P4Rokco2McUeJijo6u_carBHCN3eTp0WG3ODG1hc60Y/edit?usp=sharing)
 
-<h2>📃 Certifications</h2>
+<h2>📄 Certifications</h2>
 
 - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/3BJ86NWGUFX6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 - [CompTIA A+](https://www.credly.com/badges/513b24da-3475-47d3-886a-a2fadeb40e40/public_url)
