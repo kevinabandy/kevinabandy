@@ -7,6 +7,7 @@
  - [CIS Controls 1-5](https://docs.google.com/document/d/1U8x67Aho4_heD7kfnbeRWrHJR_FYGeX7Spr_oJCwl6k/edit?usp=sharing)
  - [Wireshark on Kali-Linux VM](https://docs.google.com/document/d/1FOlf0ktsfdmy4z2CUigX2sHpMxX6n883xo5WNEv6NvU/edit?usp=sharing)
  - [Risk Management Simulation](https://docs.google.com/spreadsheets/d/1P4Rokco2McUeJijo6u_carBHCN3eTp0WG3ODG1hc60Y/edit?usp=sharing)
+ - [Python Automation Script](https://docs.google.com/document/d/19YxsB60T8KN6YytjI_azj8qGftgckeN23m9fHgJEPcs/edit?usp=sharing)
 
 <h2>📄 Certifications</h2>
 
