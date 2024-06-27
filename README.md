@@ -19,6 +19,7 @@
 - [CompTIA IT Operations Specialist](https://www.credly.com/badges/be03ca72-c495-4bc1-a4fc-23601b6031d2/public_url)
 - [CompTIA Secure Infrastructure Specialist](https://www.credly.com/badges/ae176c97-ad54-47eb-8622-d0a0cc1dc3ec/public_url)
 - [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000617942/kmdm7bcn36)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ca371111-052f-44ca-943b-4cddf9c2d096/public_url)
 - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/3BJ86NWGUFX6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 - [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/ART79WRN9U58?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 - [Cybersecurity Analytics](https://docs.google.com/document/d/1XaTuTcoz1N5AKyhnzmQ_2976oc0XtOxv8qI8XcicTXs/edit?usp=sharing)
